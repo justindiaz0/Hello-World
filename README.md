@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Description
-This is a simple "Hello, World!" project to familiarize myself with GitHub and Markdown formatting.
+This is a simple **Hello, World!** project to familiarize myself with GitHub and Markdown formatting.
 
 ##  How to Run Program
 1. Clone this repository:
